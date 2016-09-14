@@ -1,4 +1,4 @@
-# Unity-5_Learning-C-by-Developing-Games
+# Unity-5-Learning-CSharp-by-Developing-Games
 Explore every nook and cranny of Unity 5 to turn your imagination into reality.
 ## What you will learn: 
 * Master the art of applying C# in Unity. Get to know about techniques to turn your game idea into working project.
