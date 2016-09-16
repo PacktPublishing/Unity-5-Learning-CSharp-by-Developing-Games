@@ -14,3 +14,8 @@ Explore every nook and cranny of Unity 5 to turn your imagination into reality.
 
 ### Note
 Modules 1 and 2 have code arranged by chapter. Module 3 has code laid out by platform. All 3 modules contain code
+
+##References
+[Unity 4.x Game Development by Example: Beginner's Guide](https://www.packtpub.com/game-development/unity-4x-game-development-example-beginners-guide?utm_source=github&utm_medium=repository&utm_campaign=9781849695268)
+
+[Getting Started with Unity 4 Scripting Video](https://www.packtpub.com/game-development/getting-started-unity-4-scripting-video?utm_source=github&utm_medium=repository&utm_campaign=9781849696128)
